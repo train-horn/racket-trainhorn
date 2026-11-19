@@ -6,7 +6,7 @@
 @(ev '(require trainhorn))
 
 @title{trainhorn: Train Horn Calculators}
-@author{Train Horn}
+@author{@hyperlink["https://train-horn.com/"]{Train Horn}}
 
 @defmodule[trainhorn]
 
