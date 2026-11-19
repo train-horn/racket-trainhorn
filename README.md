@@ -66,3 +66,4 @@ raco scribble --html --dest doc scribblings/trainhorn.scrbl
 ## License
 
 MIT. See [LICENSE](LICENSE).
+Maintained by [Train Horn](https://train-horn.com/), an independent reference on train horns.
